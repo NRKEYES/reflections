@@ -1,0 +1,17 @@
+So, here all we learned was how to use diff and diff -u to compare two files.
+
+Pretty handy to see what changed. A bit hard to read the output, though I am sure that could be mastered.
+
+Just read a handy tip:
+    Use short lines.
+    Makes sense, a long ass line doesn't narrow the problem as much.
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    It is nice when you want to make big changes, but fear breaking something.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+    You can miss stuff, but it be done intelligently.
